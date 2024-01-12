@@ -1,0 +1,724 @@
+{
+    "questions": [{
+            "questionText": "Hi. My name ....... Fernando.",
+            "options": [{
+                    "text": "is",
+                    "correct": true
+                },
+                {
+                    "text": "am"
+                },
+                {
+                    "text": "are"
+                },
+                {
+                    "text": "I'm"
+                }
+            ],
+            "explanation": "When we talk in the third person we use the word 'is' for to be"
+        },
+        {
+            "questionText": "How are you today?",
+            "options": [{
+                    "text": "I is good. Thank you."
+                },
+                {
+                    "text": "You're good. Thanks."
+                },
+                {
+                    "text": "We's good. Thanks for asking."
+                },
+                {
+                    "text": "I'm good. Thanks.",
+                    "correct": true
+                }
+            ],
+            "explanation": "When responding to questions we often say 'I'm' or 'I am'"
+        },
+        {
+            "questionText": "How old are you?",
+            "options": [{
+                    "text": "I have 25 years old."
+                },
+                {
+                    "text": "I am 25 years old.",
+                    "correct": true
+                },
+                {
+                    "text": "I 25 years old."
+                },
+                {
+                    "text": "I are 25 years old."
+                }
+            ],
+            "explanation": "Once again we use 'I am' in this situation"
+        },
+        {
+            "questionText": "I live ....... Spain.",
+            "options": [{
+                    "text": "on"
+                },
+                {
+                    "text": "in",
+                    "correct": true
+                },
+                {
+                    "text": "under"
+                },
+                {
+                    "text": "at"
+                }
+            ],
+            "explanation": "When we talk about living, 'in' we use for countries/cities/towns."
+        },
+        {
+            "questionText": "What time is it?",
+            "options": [{
+                    "text": "It is 5 o'clock.",
+                    "correct": true
+                },
+                {
+                    "text": "It 5 o'clock."
+                },
+                {
+                    "text": "There are 5 o'clock."
+                },
+                {
+                    "text": "It 5."
+                }
+            ],
+            "explanation": "When saying the time, it is singular, so we say 'it is'"
+        },
+        {
+            "questionText": "I've just graduated university. I am ....... to get a job soon.",
+            "options": [{
+                    "text": "thinking"
+                },
+                {
+                    "text": "explaining"
+                },
+                {
+                    "text": "searching"
+                },
+                {
+                    "text": "hoping",
+                    "correct": true
+                }
+            ],
+            "explanation": "The common expression is hoping to get"
+        },
+        {
+            "questionText": "Where are you from?",
+            "options": [{
+                    "text": "I is from a small town in France."
+                },
+                {
+                    "text": "I'm from a small town in France.",
+                    "correct": true
+                },
+                {
+                    "text": "We are from a small town at France."
+                },
+                {
+                    "text": "He's from a small town on France."
+                }
+            ],
+            "explanation": "Careful with prepostions and helping verbs like to be"
+        },
+        {
+            "questionText": "Thank you .... your email.",
+            "options": [{
+                    "text": "for",
+                    "correct": true
+                },
+                {
+                    "text": "from"
+                },
+                {
+                    "text": "with"
+                },
+                {
+                    "text": "four"
+                }
+            ],
+            "explanation": "Careful with prepositions"
+        },
+        {
+            "questionText": "I really like working in the hotel ......",
+            "options": [{
+                    "text": "industry",
+                    "correct": true
+                },
+                {
+                    "text": "career"
+                },
+                {
+                    "text": "work"
+                },
+                {
+                    "text": "businesses"
+                }
+            ],
+            "explanation": "Synonyms can be quite difficult to konw the differences"
+        },
+        {
+            "questionText": "I really like ...... TV after work.",
+            "options": [{
+                    "text": "seeing"
+                    
+                },
+                {
+                    "text": "looking"
+                },
+                {
+                    "text": "watching",
+                    "correct": true
+                },
+                {
+                    "text": "to see"
+                }
+            ],
+            "explanation": "Again verbs are important to know "
+        },
+        {
+            "questionText": "In the Summer, I like to sit under a tree in the ..... ",
+            "options": [{
+                    "text": "shadow"
+                    
+                },
+                {
+                    "text": "dark"
+                },
+                {
+                    "text": "undercast"
+                    
+                },
+                {
+                    "text": "shade",
+                    "correct": true
+                }
+            ],
+            "explanation": "Shade means the darkness underneath something like an umbrella"
+        },
+        {
+            "questionText": "My brother is 6 meters tall, just like me. So he's.... ",
+            "options": [{
+                    "text": "as tall as I'm"
+                    
+                },
+                {
+                    "text": "as taller as me."
+                },
+                {
+                    "text": "as tall as I am.",
+                    "correct": true
+                    
+                },
+                {
+                    "text": "as most tall as me."
+                    
+                }
+            ],
+            "explanation": "The first option sounds good but we should say 'as tall as I am'"
+        },
+        {
+            "questionText": "We go to the park ...... to walk our dog.",
+            "options": [{
+                    "text": "everyday",
+                    "correct": true
+                    
+                },
+                {
+                    "text": "all days"
+                },
+                {
+                    "text": "each days"
+                    
+                    
+                },
+                {
+                    "text": "today"
+                    
+                }
+            ],
+            "explanation": "Everyday works also we can use every day"
+        },
+        {
+            "questionText": "You should take ...... own lunch to school. It's healthier.",
+            "options": [{
+                    "text": "you"
+                   
+                    
+                },
+                {
+                    "text": "mine"
+                },
+                {
+                    "text": "your",
+                    "correct": true
+                    
+                    
+                },
+                {
+                    "text": "his"
+                    
+                }
+            ],
+            "explanation": "Possesive pronoun for you is 'your'"
+        },
+        {
+            "questionText": "The best time ...... visit Chicago is in October.",
+            "options": [{
+                    "text": "in"
+                   
+                    
+                },
+                {
+                    "text": "to",
+                    "correct": true
+                },
+                {
+                    "text": "then"
+                    
+                    
+                    
+                },
+                {
+                    "text": "for"
+                    
+                }
+            ],
+            "explanation": "We often use to with verbs related to travel END OF B1 LVL"
+        },
+        {
+            "questionText": "She likes reading. In ........., she works in a library",
+            "options": [{
+                    "text": "contrast"
+                   
+                    
+                },
+                {
+                    "text": "addition",
+                    "correct": true
+                },
+                {
+                    "text": "extra"
+                    
+                    
+                    
+                },
+                {
+                    "text": "add"
+                    
+                }
+            ],
+            "explanation": "'In addition' is another way to say also."
+        },
+        {
+            "questionText": "They passed their exam. ....., they had to study for 10 hours.",
+            "options": [{
+                    "text": "Although"
+                   
+                    
+                },
+                {
+                    "text": "Because"
+                    
+                },
+                {
+                    "text": "While"
+                    
+                    
+                    
+                },
+                {
+                    "text": "However",
+                    "correct": true
+                }
+            ],
+            "explanation": "'However' is used to say despite whatever"
+        },
+        {
+            "questionText": "Susan had to ...... the picnic. It was raining that day.",
+            "options": [{
+                    "text": "plan off"
+                   
+                    
+                },
+                {
+                    "text": "show off"
+                    
+                },
+                {
+                    "text": "call off",
+                    "correct": true
+                    
+                    
+                    
+                },
+                {
+                    "text": "send off"
+                    
+                }
+            ],
+            "explanation": "Call off means to cancel an event"
+        },
+        {
+            "questionText": "Not studying can ...... in failure. I have to pass.",
+            "options": [{
+                    "text": "cause"
+                   
+                    
+                },
+                {
+                    "text": "mean"
+                    
+                },
+                {
+                    "text": "result",
+                    "correct": true
+                    
+                    
+                    
+                },
+                {
+                    "text": "lead"
+                    
+                }
+            ],
+            "explanation": "Result in means it will/can happen"
+        },
+        {
+            "questionText": "Plumbers often ..... a high amount for their services.",
+            "options": [{
+                    "text": "charge",
+                    "correct": true
+                   
+                    
+                },
+                {
+                    "text": "fee"
+                    
+                },
+                {
+                    "text": "expense"
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "price"
+                    
+                }
+            ],
+            "explanation": "Charge means the price someone asks for their product/service. END OF B2 LEVEL"
+        },
+        {
+            "questionText": "....... to popular belief, English is easy to learn.",
+            "options": [{
+                    "text": "Contradictory"
+                    
+                   
+                    
+                },
+                {
+                    "text": "Contrary",
+                    "correct": true
+                    
+                },
+                {
+                    "text": "Opposed"
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "Opposite"
+                    
+                }
+            ],
+            "explanation": "The expression is Contrary to popular belief"
+        },
+        {
+            "questionText": "We sometimes are ..... by people we trust and confide in. ",
+            "options": [{
+                    "text": "misguided"
+                    
+                   
+                    
+                },
+                {
+                    "text": "misdirected"
+                    
+                    
+                },
+                {
+                    "text": "lied"
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "misled",
+                    "correct": true
+                    
+                }
+            ],
+            "explanation": "Mislead is to believe in something that isn't true"
+        },
+        {
+            "questionText": "I am under the ....... that wine only comes from grapes.",
+            "options": [{
+                    "text": "impression",
+                    "correct": true
+                    
+                   
+                    
+                },
+                {
+                    "text": "doubt"
+                    
+                    
+                },
+                {
+                    "text": "error"
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "illusion"
+                    
+                    
+                }
+            ],
+            "explanation": "Under the impression means we believe something that is obviously false"
+        },
+        {
+            "questionText": "The clients ........ claims about how dangerous the product is.",
+            "options": [{
+                    "text": "dispute",
+                    "correct": true
+                    
+                   
+                    
+                },
+                {
+                    "text": "argue"
+                    
+                    
+                },
+                {
+                    "text": "reason"
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "conclude"
+                    
+                    
+                }
+            ],
+            "explanation": "dispute claims is similar to reporting a problem "
+        },
+        {
+            "questionText": "The store's products do not ..... beyond sports equipment.",
+            "options": [{
+                    "text": "expand"
+                   
+                    
+                   
+                    
+                },
+                {
+                    "text": "widen"
+                    
+                    
+                },
+                {
+                    "text": "extend",
+                    "correct": true
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "spread"
+                    
+                    
+                }
+            ],
+            "explanation": "not extend beyond means that there are no more END OF C1 LVL"
+        },
+        {
+            "questionText": "When she got home from work, she ..... in front of the TV",
+            "options": [{
+                    "text": "slumped",
+                    "correct": true
+                   
+                    
+                   
+                    
+                },
+                {
+                    "text": "drooped"
+                    
+                    
+                },
+                {
+                    "text": "plunged"
+                    
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "sagged"
+                    
+                    
+                }
+            ],
+            "explanation": "slump means to sit down because your tired"
+        },
+        {
+            "questionText": "I don't like tourist traps. I go off the beaten .... in cities.",
+            "options": [{
+                    "text": "road"
+                    
+                   
+                    
+                   
+                    
+                },
+                {
+                    "text": "track"
+                    
+                    
+                },
+                {
+                    "text": "path",
+                    "correct": true
+                    
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "way"
+                    
+                    
+                }
+            ],
+            "explanation": "off the beaten path means it's a place not many people know about"
+        },
+        {
+            "questionText": "If I won the lottery, I ...... a new house.",
+            "options": [{
+                    "text": "will buy"
+                    
+                   
+                    
+                   
+                    
+                },
+                {
+                    "text": "would have bought"
+                    
+                    
+                },
+                {
+                    "text": "am going to buy"
+                    
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "would buy",
+                    "correct": true
+                    
+                    
+                }
+            ],
+            "explanation": "This is the 2nd conditional"
+        },
+        {
+            "questionText": "My cousin travels to every exotic ..... of the world.",
+            "options": [{
+                    "text": "edge"
+                    
+                   
+                    
+                   
+                    
+                },
+                {
+                    "text": "corner",
+                    "correct": true
+                    
+                    
+                },
+                {
+                    "text": "angle"
+                    
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "pocket"
+                  
+                    
+                    
+                }
+            ],
+            "explanation": "exotic corner is the expression"
+        },
+        {
+            "questionText": "We passed this exam in spite of ..... the previous exams.",
+            "options": [{
+                    "text": "failed"
+                    
+                   
+                    
+                   
+                    
+                },
+                {
+                    "text": "fail"
+                    
+                    
+                },
+                {
+                    "text": "failing",
+                    "correct": true
+                    
+                 
+                    
+                    
+                    
+                },
+                {
+                    "text": "fails"
+                  
+                    
+                    
+                }
+            ],
+            "explanation": "in spite of verb-ing is the format"
+        }
+
+
+    ]
+}
